@@ -11,8 +11,13 @@ The repository contains 6 empty templates ready to use for your mockups :
 - iPad Retina portrait and landscape
 - iPhone 4/4S portrait and landscape
 
-![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-landscape.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-portrait.png) ![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-portrait.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-landscape.png) ![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone4-portrait.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone4-landscape.png)
-
+![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-landscape.png)
+![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-portrait.png)
+![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-portrait.png)
+![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-landscape.png)
+![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone4-portrait.png)
+![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone4-landscape.png)
+	
 ## Layers
 
 Each template is organized in layers and sublayers as following :
