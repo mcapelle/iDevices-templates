@@ -11,7 +11,7 @@ The repository contains 6 empty templates ready to use for your mockups :
 - iPad Retina portrait and landscape
 - iPhone 4/4S portrait and landscape
 
-![Template iPhone 5 landscape](http://apps.tribumeta.com/images/tmp/iphone5-landscape.png) ![Template iPhone 5 portrait](http://apps.tribumeta.com/images/tmp/iphone5-portrait.png) ![Template iPhone 5 landscape](http://apps.tribumeta.com/images/tmp/ipad-portrait.png) ![Template iPhone 5 portrait](http://apps.tribumeta.com/images/tmp/ipad-landscape.png) ![Template iPhone 5 landscape](http://apps.tribumeta.com/images/tmp/iphone4-portrait.png) ![Template iPhone 5 portrait](http://apps.tribumeta.com/images/tmp/iphone4-landscape.png)
+![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-landscape.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-portrait.png) ![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-portrait.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-landscape.png) ![Template iPhone 5 landscape](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone4-portrait.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone4-landscape.png)
 
 ## Layers
 
@@ -30,7 +30,7 @@ Each template is organized in layers and sublayers as following :
 
 To facilitate the placement of your components in the mockup and later in Xcode, the templates contain a grid.  
 
-![Template iPhone 5 portrait](http://apps.tribumeta.com/images/tmp/iphone5-portrait-with-grid.png) ![Template iPhone 5 portrait](http://apps.tribumeta.com/images/tmp/ipad-landscape-with-grid.png)
+![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/iphone5-portrait-with-grid.png) ![Template iPhone 5 portrait](https://raw.github.com/mcapelle/iDevices-templates/master/images/ipad-landscape-with-grid.png)
 
 As shown above, all the graphics representing the device are outside the drawing zone. So you can easily choose to export the entire drawing (with the device) or just the page (the app screen).
 
